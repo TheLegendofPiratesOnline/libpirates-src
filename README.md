@@ -6,7 +6,7 @@ This repository contains ready-to-use water code reverse engineered from libpira
 ![](https://static.tlopo.com/static/img/posts/c7985a175eca4705962b1704b9b675cf.png)
 
 ## Background
-This source was originally based on the water in the Pirates of the Caribbean cannon ride at WDW. It later was implemented into Pirates of the Caribbean Online as the game's ocean wave calculation system.
+This source was originally based on the water in a Pirates of the Caribbean cannon ride experience at a theme park. It later was implemented into Pirates of the Caribbean Online as the game's ocean wave calculation system.
 
 ## Requirements
 This reverse engineering of the code is intended to be used alongside the latest version of the Panda3D Game Engine, which can be obtained here: https://github.com/Panda3D/Panda3D/
